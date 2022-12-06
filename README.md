@@ -10,6 +10,8 @@ ex: monapp.com/contact
     monapp.com/contact/edit/4
     
 
-# Telecharger
+# How to use
 
 cmd : git clone https://github.com/AubourgA/simply_router.git
+
+integrate on your app and improve if you want
